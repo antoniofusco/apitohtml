@@ -9,6 +9,14 @@
             "email": "antoniofusco69@gmail.com"
         }
     ],
+      "package": {
+        "name": "vendor/apitohtml",
+        "version": "1.2.5",
+        "dist": {
+            "url": "https://github.com/antoniofusco/apitohtml",
+            "type": "zip"
+        }
+   },
     "minimum-stability": "dev",
     "require": {}
 }
