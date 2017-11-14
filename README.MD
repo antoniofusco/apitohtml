@@ -15,15 +15,19 @@ The core of the application is file index.php that instantiate all the environme
 First of all it's necessary configure this variable in config.php
 
 // Api username
+
 define('API_USR', '');
 
 // api password
+
 define('API_PWD', '');
 
 // Api entry level for all the river
+
 define('API_COMPLETE_URL', '');
 
 // Api entry level for particular river filtered by tag
+
 define('API_PARTIAL_URL', '');
 
 Enjoy
