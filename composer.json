@@ -1,0 +1,14 @@
+{
+    "name": "maia-pc/thejournal",
+    "description": "This package render a json river from an api in html",
+    "type": "project",
+    "license": "Opensource",
+    "authors": [
+        {
+            "name": "Antonio Fusco",
+            "email": "antoniofusco69@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
