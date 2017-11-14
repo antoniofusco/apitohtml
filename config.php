@@ -21,11 +21,14 @@ define("ERROR_LOG",1);
 //Level of gzip compression from 1 to 9
 define("COMPRESSION",9);
 
+// Api username
+define('API_USR', '');
+// api password
+define('API_PWD', '');
 
-define('API_USR', 'sample');
-define('API_PWD', 'eferw5wr335£65');
-
-define('API_COMPLETE_URL', 'http://api.thejournal.ie/v3/sample/thejournal');
-define('API_PARTIAL_URL', 'http://api.thejournal.ie/v3/sample/tag/');
+// Api entry level for all the river
+define('API_COMPLETE_URL', '');
+// Api entry level for particular river
+define('API_PARTIAL_URL', '');
 
 define('ERROR_FILE_LOG', 'error_log');
